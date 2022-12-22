@@ -1,0 +1,35 @@
+{
+	"compilerOptions": {
+		"noImplicitAny": true,
+		"moduleResolution": "node",
+		"resolveJsonModule": true,
+		"emitDecoratorMetadata": true,
+		"esModuleInterop": true,
+		"module": "CommonJS",
+		"target": "ES2017",
+		"lib": ["ES2017.Object", "ES2018", "ESNext"],
+		"sourceMap": true,
+		"removeComments": false,
+		"experimentalDecorators": true,
+		"typeRoots": [],
+		"types": ["node", "offscreencanvas"],
+		"outDir": "bin",
+		"plugins": [
+			{
+				"name": "tslint-language-service"
+			}
+		]
+	},
+	"exclude": [
+		"node_modules",
+		"bower_components",
+		"jspm_packages",
+		"tmp",
+		"temp",
+		"bin",
+		"docs",
+		"pkg",
+		"examples",
+		"server"
+	]
+}
