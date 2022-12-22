@@ -1,5 +1,5 @@
 {
-	"name": "inviteblue",
+	"name": "plasma",
 	"version": "0.1.0",
 	"description": "",
 	"main": "./bin/bot.js",
@@ -22,8 +22,7 @@
 	
 	"author": "Ceed",
 	"license": "ISC",
-	
-	"homepage": "https://inviteblue.eu/",
+
 	"dependencies": {
 		"@sentry/node": "6.13.3",
 		"@types/offscreencanvas": "^2019.6.4",
