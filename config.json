@@ -1,0 +1,67 @@
+{
+	"devToken": "OTQ5NDExMDg0NzE1MDYxM2PQO5tiqrXPEJVPM-X4BBF4",
+	"sentryDsn": "https://d1cc5f5ddab545e390bb12b1f8822e91@o444344.ingest.sentry.io/6237801",
+	"bot": {
+		"type": "regular",
+		"ids": {
+			"regular": "949411084715061278",
+			"pro": ""
+		},
+		"developers": ["323171463832141826", "748366237788012695", "848619548466348094"],
+		"links": {
+			"add": "https://www.InviteSystem.eu/redirect/add-me?pact=/",
+			"support": "https://www.InviteSystem.eu/redirect/support-center?pact=/",
+			"website": "https://www.InviteSystem.eu/",
+			"patreon": "https://www.patreon.com/InviteSystem"
+		},
+		"emojis": {
+			"check": "962991762467594282",
+			"info": "962991762736046160",
+			"plus": "962991762807353344",
+			"coolif": "961320786986160148",
+			"config": "962991762593431562",
+			"globe": "962991762392100914",
+			"premium": "962991762299830312"
+		},
+		"dm": {
+			"guild": "947890775763615755",
+			"channel": "952150747615727646"
+		},
+		"apiAuth": {
+			"username": "guest",
+			"password": "guest"
+		},
+		"dblToken": null,
+		"music": {
+			"pollyUrl": ""
+		}
+	},
+	"rabbitmq": {
+		"hostname": "localhost",
+		"username": "admin",
+		"password": "KKASDJWW123JJ",
+		"prefix": ""
+	},
+	"databases": [
+		{
+			"host": "localhost",
+			"port": 3306,
+			"user": "root",
+			"password": "84b{$:zMs$)h}>BQ",
+			"range": {
+				"from": 0,
+				"to": 0
+			}
+		},
+		{
+			"host": "localhost",
+			"port": 3306,
+			"user": "root",
+			"password": "84b{$:zMs$)h}>BQ",
+			"range": {
+				"from": 1,
+				"to": 1
+			}
+		}
+	]
+}
