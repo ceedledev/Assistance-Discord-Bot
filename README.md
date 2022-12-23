@@ -14,7 +14,7 @@ Feel free to add a star ⭐ to the repository to promote the project!
 
 ### Full bot
 
-* 💥 A 100% French bot like no other
+* 💥 A 100% English bot like no other
 * 🌐 Des commandes en tout genre, Rôle couleur, Fun, Nsfw, Modération, Général, Image, Anti-Raid, Niveau etc...
 * 🤩 Need only one bot instead of several
 * ⚙️ Join the Assistance Lounge community
