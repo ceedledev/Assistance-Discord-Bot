@@ -1,5 +1,6 @@
 const Discord = require("discord.js")
-const bot = new Discord.Client({intents: 3276799})
+const intents = new Discord.IntentsBitField(3276799)
+const bot = new Discord.Client({intents})
 const config = require("./config.js")
 
 bot.on("ready", async () => {
