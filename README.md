@@ -2,7 +2,7 @@
 
 # Assistance 
 
-[![](https://img.shields.io/discord/1044305778288381985.svg?logo=discord&colorB=7289DA)](https://discord.gg/assistance)
+[![](https://img.shields.io/discord/1044305778288381985.svg?logo=discord&colorB=7289DA)](https://discord.gg/freemembers)
 [![](https://img.shields.io/badge/discord.js-v14.7.1-blue.svg?logo=npm)](https://discord.js.org/)
 [![](https://img.shields.io/badge/nodejs-16.9.0-green.svg)](https://www.nodejs.org)
 
