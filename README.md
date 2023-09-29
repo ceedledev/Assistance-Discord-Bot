@@ -47,7 +47,8 @@ node main.js
 
 ## Commands
 To run a command type `\[command]` in a server's channel\
-For example: `\ping`
+For example: `\ping`\
+![image](https://github.com/Kevin-Daniel/Assistance-Discord-Bot/assets/54856186/817bdd86-6145-4509-a6c9-2d8eac788b44)
 
 ### Current list of commands:
 * ping
