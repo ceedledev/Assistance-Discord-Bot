@@ -19,19 +19,31 @@ Assistance is a multipurpose Discord bot coded by Ceed using JavaScript and Disc
 
 ## Install Guide
 1. Install Node.js
-2. Clone the repository by running\
-`git clone https://github.com/ceedledev/Assistance-Discord-Bot`
-3. Follow the steps [here](https://discord.com/developers/docs/getting-started) and create a Discord Application
-4. Once the application has been created, go to the 'Bot' tab and make sure all options under 'Privileged Gateway Intents' are toggled on.
-5. Under 'Bot Permissions' make sure 'Administrator' is checked
-6. Scroll and click 'Reset Token' and copy the token
-7. Go to your cloned repository's directory and find and open the config.js file in a text editor of your choice.
-8. Paste your bot's token to the token field in `config.js`, save and close the file.
-9. Run the bot by going into Assistance-Discord-Bot directory and running\
-`node main.js`
-10. To invite the bot to your server, go back to the Discord developer page and click on 'URL Generator' under 'OAuth2'
-11. Check the 'Bot' checkbox under 'Scopes' and then check the 'Adminstrator' checkbox under 'Bot Permissions'
-12. Finally, use the generated URL at the bottom of the page to invite the bot to your Discord server.
+2. Clone the repository by running
+```
+git clone https://github.com/ceedledev/Assistance-Discord-Bot
+```
+3. Go into the Assistance-Discord-Bot directory and install dependencies by running
+```
+npm install
+```
+4. Follow the steps [here](https://discord.com/developers/docs/getting-started) and create a Discord Application
+5. Once the application has been created, go to the `Bot` tab and make sure all options under `Privileged Gateway Intents` are toggled on.
+  ![image](https://github.com/Kevin-Daniel/Assistance-Discord-Bot/assets/54856186/d967dd2e-e002-4380-9083-7f95a323febf)
+6. Under `Bot Permissions` make sure `Administrator` is checked.
+   ![image](https://github.com/Kevin-Daniel/Assistance-Discord-Bot/assets/54856186/35108a59-6604-48cb-ab12-07630e94d9b7)
+7. Scroll and click `Reset Token` and then click `Copy` to copy the token to your clipboard.
+   ![image](https://github.com/Kevin-Daniel/Assistance-Discord-Bot/assets/54856186/c0cccc34-82e7-49a3-b12e-0341fd9d3fd3)
+8. Go to your cloned repository's directory and find and open the `config.js` file in a text editor of your choice.
+9. Paste your bot's token to the `token` field in `config.js`, save and close the file.\
+    ![image](https://github.com/Kevin-Daniel/Assistance-Discord-Bot/assets/54856186/020f4e4c-8e9d-4bf6-b885-bff055e1e025)
+10. Run the bot by going into Assistance-Discord-Bot directory and running.
+```
+node main.js
+```
+11. To invite the bot to your server, go back to the Discord developer page and click on `URL Generator` under `OAuth2`.
+12. Check the 'Bot' checkbox under `Scopes` and then check the 'Adminstrator' checkbox under `Bot Permissions`.
+13. Finally, use the generated URL at the bottom of the page to invite the bot to your Discord server.
 
 ## Commands
 To run a command type `\[command]` in a server's channel\
